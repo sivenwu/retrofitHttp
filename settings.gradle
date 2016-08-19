@@ -1,1 +1,1 @@
-include ':myretrofit'
+include ':myretrofit', ':equesSdkAppDemoThirdParty'
